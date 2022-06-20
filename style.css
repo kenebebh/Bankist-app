@@ -385,6 +385,7 @@ h2 {
   .btn--sort {
     margin-left: 0;
     display: block;
+    font-size: 2rem;
     position: absolute;
     top: 0;
     left: 48%;
